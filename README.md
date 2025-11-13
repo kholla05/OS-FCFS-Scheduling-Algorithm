@@ -13,12 +13,17 @@
 <br>
 This project uses the First Come, First Serve (FCFS) CPU Scheduling Algorithm.
 <br>
+<br>
 This program will:
 <br>
 - Define the process IDs, arrival times, and burst times.
+<br>
 - Check if the CPU is idle before the next process arrives. 
+<br>
 - Calculate the waiting time, response time, turnaround time, and completion time for each process.
+<br>
 - Calculate the averages for the waiting time, response time, and turnaround time.
+<br>
 - Show the results of these and the throughput to the console.
 
 
