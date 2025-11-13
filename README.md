@@ -1,4 +1,7 @@
 # OS FCFS-Scheduling-Algorithm
-<h2>Read Me File Operating Systems Final Project</h2>
+<h3>Read Me File Operating Systems Final Project</h3>
 
-Creation Date:
+<strong>Creation Date: </strong>October 20th, 2025
+<strong>Authors: </strong>
+- Kiera Holland
+
